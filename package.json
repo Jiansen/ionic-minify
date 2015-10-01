@@ -15,7 +15,7 @@
   "dependencies" : {
     "uglify-js": "2.4.x",
     "ng-annotate": "0.15.4",
-    "clean-css": "2.2.x"
+    "clean-css": "2.2.23"
   },
   "author": "Luis Rogelio Hernández López",
   "license": "MIT",
